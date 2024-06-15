@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/.VGTU/ITnt (1.2pusmetis)/Debesų kompiuterija/v2/2lab/preProdPage/preProdPage/preprodpage",
+	"sourceRoot": "D:/.VGTU/ITnt (1.2pusmetis)/Debesų kompiuterija/v2/2lab/preProdPage/preprodpage/preprodpage",
 	"sources": [
 		"themes/hello/assets/scss/main.scss",
 		"themes/hello/assets/scss/_normalize.scss",
